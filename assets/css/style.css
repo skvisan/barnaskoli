@@ -63,7 +63,7 @@ background-color:#F0677C;
    HEADER SECTION STYLES
  ============================================================ */
 header {
-    background-color: #F0677C;
+    background-color: #D6CEC1;
     color: #fff;
     padding: 10px;
     text-align: right;
@@ -113,7 +113,7 @@ header {
 
     .user-settings-wrapper .nav > li > a:hover,.user-settings-wrapper .nav > li > a:focus {
         text-decoration: none;
-        background-color: #C36464!important;
+        background-color: #D6CEC1!important;
     }
 
     .user-settings-wrapper img {
@@ -142,7 +142,7 @@ header {
 /* MENU LINKS SECTION*/
 
 .menu-section {
-    background-color: #3D3D3D;
+    background-color: #D6CEC1;
 }
 
 #menu-top a {
@@ -166,7 +166,7 @@ header {
 }
 
 .navbar-inverse {
-    background-color: #C36464;
+    background-color: #fff;
     border-color: transparent;
 }
 
@@ -185,7 +185,7 @@ footer {
     padding: 10px;
     color: #fff;
     font-size: 12px;
-    background-color: #C36464;
+    background-color: #D6CEC1;
 }
 
     footer a, footer a:hover {
@@ -200,19 +200,19 @@ footer {
 /* DASHBOARD ICONS */
 
 .bk-clr-one {
-    background-color: #B9B739;
+    background-color: #D6CEC1;
 }
 
 .bk-clr-two {
-    background-color: #F94C4C;
+    background-color: #D8E2D7;
 }
 
 .bk-clr-three {
-    background-color: #119c7e;
+    background-color: #EEC8C5;
 }
 
 .bk-clr-four {
-    background-color: #b739b9;
+    background-color: #F3DCD4;
 }
 
 .dashboard-div-icon {
