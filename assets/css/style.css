@@ -26,7 +26,7 @@ body {
 .page-head-line {
     font-weight: 900;
     padding-bottom: 20px;
-    border-bottom: 2px solid #F0677C;
+    border-bottom: 2px solid #D6CEC1;
     text-transform: uppercase;
     color: #F0677C;
     font-size: 20px;
@@ -94,7 +94,7 @@ header {
     -moz-border-radius: 50%;
     height: 60px;
     width: 60px;
-    background-color: #F0677C;
+    background-color: #D8E2D7;
     color: #fff;
 }
 
@@ -113,7 +113,7 @@ header {
 
     .user-settings-wrapper .nav > li > a:hover,.user-settings-wrapper .nav > li > a:focus {
         text-decoration: none;
-        background-color: #D6CEC1!important;
+        background-color: #D8E2D7!important;
     }
 
     .user-settings-wrapper img {
@@ -142,11 +142,11 @@ header {
 /* MENU LINKS SECTION*/
 
 .menu-section {
-    background-color: #D6CEC1;
+    background-color: #fff;
 }
 
 #menu-top a {
-    color: #FFF;
+    color: #9E917E;
     text-decoration: none;
     font-weight: 500;
     padding: 10px 10px 10px 10px;
@@ -154,11 +154,11 @@ header {
 }
 
 .menu-top-active {
-    background-color: #C36464;
+    background-color: #D8E2D7;
 }
 
 .menu-section .nav > li > a:hover,.menu-section .nav > li > a:focus {
-    background-color: #F0677C!important;
+    background-color: #D8E2D7!important;
 }
 
 .menu-section .dropdown-menu > li > a:hover,.menu-section .dropdown-menu > li > a:focus {
@@ -256,12 +256,12 @@ footer {
 
 .notice-board li {
     padding: 10px;
-    border-bottom: 1px solid #E5E5E5;
+    border-bottom: 1px solid #D8E2D7;
 }
 
     .notice-board li span {
         margin-right: 10px;
-        border: 1px solid #DBDBDB;
+        border: 1px solid #D8E2D7;
         padding: 5px;
     }
 
