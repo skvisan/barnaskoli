@@ -80,12 +80,12 @@
                     <hr />
                      <h4> Or Login with <strong>Zontal Account  :</strong></h4>
                     <br />
-                     <label>Enter Email ID : </label>
-                        <input type="text" class="form-control" />
+                     <label>Enter Usermane : </label>
+                        <input name="id" type="text" class="form-control" />
                         <label>Enter Password :  </label>
-                        <input type="password" class="form-control" />
+                        <input name= "pass" type="password" class="form-control" />
                         <hr />
-                        <a href="index.html" class="btn btn-info"><span class="glyphicon glyphicon-user"></span> &nbsp;Log Me In </a>&nbsp;
+                        <a href="index.html" class="btn btn-info"><span class="glyphicon glyphicon-user" onClick="pasuser(this.form)"></span> &nbsp;Log Me In </a>&nbsp;
                 </div>
                 <div class="col-md-6">
                     <div class="alert alert-info">
@@ -149,5 +149,24 @@
     <script src="assets/js/jquery-1.11.1.js"></script>
     <!-- BOOTSTRAP SCRIPTS  -->
     <script src="assets/js/bootstrap.js"></script>
+    <script language="javascript">
+<!--//
+/*This Script allows people to enter by using a form that asks for a
+UserID and Password*/
+    function pasuser(form) {
+        if (form.id.value=="hafrun") { 
+            if (form.pass.value=="skoli") {              
+                location="index.html" 
+            } 
+            else {
+                alert("Invalid Password")
+            }
+        } 
+        else {  
+            alert("Invalid UserID")
+        }
+    }
+    //-->
+    </script>
 </body>
 </html>
