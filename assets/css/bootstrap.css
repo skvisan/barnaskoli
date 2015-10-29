@@ -3200,8 +3200,8 @@ fieldset[disabled] .btn-info.active {
 }
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236;
+  background-color: #EEC8C5;
+  border-color: #EEC8C5;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -5557,7 +5557,7 @@ a.list-group-item-danger.active:focus {
   border-color: #d6e9c6;
 }
 .panel-success > .panel-heading {
-  color: #D8E2D7;
+  color: #9E917E;
   background-color: #dff0d8;
   border-color: #d6e9c6;
 }
