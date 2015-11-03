@@ -44,6 +44,7 @@ body {
     border-radius: 0px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
+    color: black;
 }
 .login-icon {
     height: 60px;
@@ -138,6 +139,26 @@ header {
     .user-settings-wrapper .media-heading {
         padding-top: 10px;
     }
+    /* IMAGE CONTAINER*/
+#container1 {
+        width: 130px;
+        height: 60px;
+        display: table;
+        background-color: #ccc;         
+    }
+
+    #container1 .image-container {
+        text-align: center;
+        vertical-align: middle;
+        display: table-cell;
+    }
+
+    #container1 .image-container img {
+        max-width: 160px;
+        max-height: 60px;        
+    }
+
+
 
 /* MENU LINKS SECTION*/
 
