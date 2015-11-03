@@ -150,9 +150,10 @@ header {
     }
 
     .user-settings-wrapper img {
-        height: 64px;
-        width: 64px;
-        border: 1px solid #000000;
+        height: 100px;
+        width: 100px;
+        border: 1px solid #9E9E9E;
+        border-radius: 46px;
     }
 
     .user-settings-wrapper .dropdown-menu {
