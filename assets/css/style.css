@@ -173,7 +173,7 @@ header {
     }
     /* IMAGE CONTAINER*/
 #container1 {
-        width: 130px;
+        width: 120px;
         height: 60px;
         display: table;
         background-color: #ccc;         
@@ -186,7 +186,7 @@ header {
     }
 
     #container1 .image-container img {
-        max-width: 160px;
+        max-width: 600px;
         max-height: 60px;        
     }
 
