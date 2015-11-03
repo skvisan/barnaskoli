@@ -6,11 +6,43 @@
 
 @import url(http://fonts.googleapis.com/css?family=Roboto); /* FREE GOOGLE FONT */
 
-body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 30px;
+@font-face
+{
+    font-family: Raleway-Medium;
+    src: url('../Font/Raleway-Medium.ttf');
+
 }
 
+@font-face
+{
+    font-family: Raleway-Regular;
+    src: url('../Font/Raleway-Regular.ttf');
+
+}
+@font-face
+{
+    font-family: Raleway-ExtraLight;
+    src: url('../Font/Raleway-ExtraLight.ttf');
+
+}
+@font-face
+{
+    font-family: Raleway-Light;
+    src: url('../Font/Raleway-Light.ttf');
+
+}
+
+@font-face
+{
+    font-family: Raleway-SemiBold;
+    src: url('../Font/Raleway-SemiBold.ttf');
+
+}
+body {
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: Raleway-Light;
+    line-height: 30px;
+}
 .set-radius-zero {
     border-radius: 0px;
     -moz-border-radius: 0px;
