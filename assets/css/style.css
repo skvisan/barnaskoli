@@ -1,4 +1,4 @@
-﻿
+
 
 /* =============================================================
    GENERAL STYLES
@@ -200,19 +200,35 @@ footer {
 /* DASHBOARD ICONS */
 
 .bk-clr-one {
-    background-color: #D6CEC1;
+    background-color: #87AECE;
+}
+
+.bk-clr-one-b {
+    background-color: #576C7D;
 }
 
 .bk-clr-two {
-    background-color: #D8E2D7;
+    background-color: #8CD285;
+}
+
+.bk-clr-two-b {
+    background-color: #677F64;
 }
 
 .bk-clr-three {
-    background-color: #EEC8C5;
+    background-color: #F58686;
+}
+
+.bk-clr-three-b {
+    background-color: #B56666;
 }
 
 .bk-clr-four {
-    background-color: #F3DCD4;
+    background-color: #E09A6A;
+}
+
+.bk-clr-four-b {
+    background-color: #A07253;
 }
 
 .dashboard-div-icon {
