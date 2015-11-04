@@ -96,7 +96,7 @@ background-color:#9F937D;
    HEADER SECTION STYLES
  ============================================================ */
 header {
-    background-color: #D6CEC1;
+    background-color: #9E917E;
     color: #fff;
     padding: 10px;
     text-align: right;
@@ -239,7 +239,7 @@ footer {
     padding: 10px;
     color: #fff;
     font-size: 12px;
-    background-color: #D6CEC1;
+    background-color: #9E917E;
 }
 
     footer a, footer a:hover {
