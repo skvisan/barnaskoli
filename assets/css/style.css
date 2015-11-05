@@ -208,15 +208,15 @@ header {
 }
 
 .menu-top-active {
-    background-color: #D8E2D7;
+    background-color: #d6e9c6;
 }
 
 .menu-section .nav > li > a:hover,.menu-section .nav > li > a:focus {
-    background-color: #D8E2D7!important;
+    background-color: #d6e9c6!important;
 }
 
 .menu-section .dropdown-menu > li > a:hover,.menu-section .dropdown-menu > li > a:focus {
-    background-color: #F0677C!important;
+    background-color: #d6e9c6!important;
 }
 
 .navbar-inverse {
